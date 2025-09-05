@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MotivacionalDia</string>
+    <string name="motivacional_do_dia">Motivational of the day</string>
+    <string name="sortear_frase">draw phrase</string>
+    <string name="imagem_bem_vindo">Welcome image</string>
+
+    <string-array name="frases_motivacionais">
+        <item>Persistence is the path to success.</item>
+        <item>Believe in yourself and you will be able to achieve anything.</item>
+        <item>Success is born from desire, determination, and persistence in reaching a goal. Even if you don’t hit the target, those who try and overcome obstacles will, at the very least, accomplish admirable things.</item>
+        <item>Failure is only an opportunity to start again with more intelligence.</item>
+        <item>All your ideas can work out if you have the right attitude to turn them into reality.</item>
+        <item>Optimism is faith in action. Nothing can be done without hope and confidence.</item>
+        <item>Define your priorities and focus your efforts on what really matters.</item>
+        <item>Discipline is the bridge between goals and achievements.</item>
+        <item>Great things never come from comfort zones.</item>
+        <item>Success is the sum of small efforts repeated day after day.</item>
+        <item>The only way to do great work is to love what you do.</item>
+        <item>The greatest glory in living lies not in never falling, but in rising every time we fall.</item>
+        <item>If life were predictable, it would cease to be life and be without flavor.</item>
+        <item>Life is too important to be taken seriously.</item>
+        <item>Keep your eyes on the stars and your feet on the ground.</item>
+        <item>The journey of a thousand miles begins with a single step.</item>
+        <item>Life is what happens when you’re busy making other plans.</item>
+        <item>Spread love wherever you go.</item>
+        <item>Be the change you wish to see in the world.</item>
+        <item>The only person you are destined to become is the person you decide to be.</item>
+        <item>Life is 10% what happens to me and 90% how I react to it.</item>
+        <item>Nothing is impossible, the word itself says "I’m possible!"</item>
+        <item>Keep your face toward the sun and you will not see the shadows.</item>
+        <item>Success is the sum of small efforts, repeated day in and day out.</item>
+        <item>The best and most beautiful things in the world cannot be seen or touched – they must be felt with the heart.</item>
+        <item>Believe you can and you’re already halfway there.</item>
+        <item>The only thing we have to fear is fear itself.</item>
+        <item>Life is like riding a bicycle. To keep your balance, you must keep moving.</item>
+        <item>You are never too old to set another goal or to dream a new dream.</item>
+        <item>Success does not consist in never making mistakes, but in never making the same one twice.</item>
+        <item>Imagination is everything. It is the preview of life’s coming attractions.</item>
+        <item>The difference between ordinary and extraordinary is that little extra.</item>
+        <item>Success is a state of mind. If you want success, start thinking of yourself as a success.</item>
+        <item>Action is the foundational key to all success.</item>
+        <item>The only limit to our realizations of tomorrow will be our doubts of today.</item>
+        <item>Fight with determination, embrace life with passion, lose with class, and win with boldness, because the world belongs to those who dare, and life is too much to be insignificant.</item>
+        <item>Life is too short to be small.</item>
+        <item>The best revenge is massive success.</item>
+        <item>Life is not about waiting for the storm to pass, it’s about learning to dance in the rain.</item>
+        <item>The only thing standing between you and your dream is the will to try and the belief that it is truly possible.</item>
+        <item>Success has nothing to do with how much money you make, but with the difference you make in people’s lives.</item>
+        <item>The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.</item>
+        <item>Life is too short to waste it living someone else’s dreams.</item>
+        <item>Success is not final, failure is not fatal: it is the courage to continue that counts.</item>
+        <item>The best way to predict the future is to create it.</item>
+        <item>Life is not about finding yourself. Life is about creating yourself.</item>
+        <item>Success is going from failure to failure without losing enthusiasm.</item>
+    </string-array>
+
+</resources>

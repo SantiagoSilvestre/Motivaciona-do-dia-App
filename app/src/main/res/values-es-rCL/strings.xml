@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MotivacionalDia</string>
+    <string name="motivacional_do_dia">motivación del día</string>
+    <string name="sortear_frase">Dibujar frase</string>
+    <string name="imagem_bem_vindo">Imagen de bienvenida</string>
+
+    <string-array name="frases_motivacionais">
+        <item>La persistencia es el camino al éxito.</item>
+        <item>Cree en ti mismo y serás capaz de lograr cualquier cosa.</item>
+        <item>El éxito nace del querer, de la determinación y de la persistencia en alcanzar un objetivo. Aunque no alcances la meta, quien busca y supera obstáculos, al menos hará cosas admirables.</item>
+        <item>El fracaso es solo una oportunidad para empezar de nuevo con más inteligencia.</item>
+        <item>Todas tus ideas pueden funcionar si tienes la actitud correcta para convertirlas en realidad.</item>
+        <item>El optimismo es la fe en acción. Nada se puede hacer sin esperanza y confianza.</item>
+        <item>Define tus prioridades y concentra tus esfuerzos en lo que realmente importa.</item>
+        <item>La disciplina es el puente entre metas y logros.</item>
+        <item>Las grandes cosas nunca vinieron de zonas de confort.</item>
+        <item>El éxito es la suma de pequeños esfuerzos repetidos día tras día.</item>
+        <item>La única manera de hacer un gran trabajo es amar lo que haces.</item>
+        <item>La mayor gloria en la vida no está en nunca caer, sino en levantarse cada vez que caemos.</item>
+        <item>Si la vida fuera predecible, dejaría de ser vida y carecería de sabor.</item>
+        <item>La vida es demasiado importante para tomarla en serio.</item>
+        <item>Mantén tus ojos en las estrellas y tus pies en la tierra.</item>
+        <item>El viaje de mil millas comienza con un solo paso.</item>
+        <item>La vida es lo que sucede mientras estás ocupado haciendo otros planes.</item>
+        <item>Esparce amor dondequiera que vayas.</item>
+        <item>Sé el cambio que quieres ver en el mundo.</item>
+        <item>La única persona que estás destinado a ser es la persona que decides ser.</item>
+        <item>La vida es 10% lo que me pasa y 90% cómo reacciono a ello.</item>
+        <item>Nada es imposible, la misma palabra dice "¡Soy posible!"</item>
+        <item>Mantén tu rostro hacia el sol y no verás las sombras.</item>
+        <item>El éxito es la suma de pequeños esfuerzos, repetidos día tras día.</item>
+        <item>Lo mejor y más bello del mundo no puede verse ni tocarse: debe sentirse con el corazón.</item>
+        <item>Cree que puedes y ya estás a medio camino.</item>
+        <item>Lo único que debemos temer es al miedo mismo.</item>
+        <item>La vida es como andar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote.</item>
+        <item>Nunca eres demasiado viejo para establecer otra meta o soñar un nuevo sueño.</item>
+        <item>El éxito no consiste en nunca equivocarse, sino en no cometer el mismo error dos veces.</item>
+        <item>La imaginación lo es todo. Es el adelanto de las próximas atracciones de la vida.</item>
+        <item>La diferencia entre ordinario y extraordinario es ese pequeño extra.</item>
+        <item>El éxito es un estado mental. Si quieres tener éxito, empieza a pensar en ti mismo como un éxito.</item>
+        <item>La acción es la clave fundamental para todo éxito.</item>
+        <item>El único límite para nuestras realizaciones de mañana son nuestras dudas de hoy.</item>
+        <item>Lucha con determinación, abraza la vida con pasión, pierde con clase y gana con osadía, porque el mundo pertenece a quien se atreve y la vida es demasiado para ser insignificante.</item>
+        <item>La vida es demasiado corta para ser pequeña.</item>
+        <item>La mejor venganza es el éxito masivo.</item>
+        <item>La vida no se trata de esperar a que pase la tormenta, sino de aprender a bailar bajo la lluvia.</item>
+        <item>Lo único que se interpone entre tú y tu sueño es la voluntad de intentarlo y la creencia de que es realmente posible.</item>
+        <item>El éxito no tiene nada que ver con cuánto dinero ganas, sino con la diferencia que haces en la vida de las personas.</item>
+        <item>La única manera de hacer un gran trabajo es amar lo que haces. Si aún no lo has encontrado, sigue buscando. No te conformes.</item>
+        <item>La vida es demasiado corta para desperdiciarla viviendo los sueños de otras personas.</item>
+        <item>El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje de continuar.</item>
+        <item>La mejor manera de predecir el futuro es crearlo.</item>
+        <item>La vida no se trata de encontrarte a ti mismo. La vida se trata de crearte a ti mismo.</item>
+        <item>El éxito es ir de fracaso en fracaso sin perder el entusiasmo.</item>
+    </string-array>
+
+</resources>

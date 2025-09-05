@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">MotivacionalDia</string>
+    <string name="motivacional_do_dia">Motivacional do dia</string>
+    <string name="sortear_frase">Sortear frase</string>
+    <string name="imagem_bem_vindo">Imagem bem-vindo</string>
+
+    <!-- Frases motivacionais -->
+    <string-array name="frases_motivacionais">
+        <item>A persistência é o caminho do êxito.</item>
+        <item>Acredite em si mesmo e você será capaz de realizar qualquer coisa.</item>
+        <item>O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.</item>
+        <item>O insucesso é apenas uma oportunidade para recomeçar com mais inteligência.</item>
+        <item>Todas as suas ideias podem dar certo, se você tiver a atitude certa para transformá-las em realidade.</item>
+        <item>Otimismo é a fé em ação. Nada pode ser feito sem esperança e confiança.</item>
+        <item>Defina suas prioridades e concentre seus esforços naquilo que realmente importa.</item>
+        <item>A disciplina é a ponte entre metas e realizações.</item>
+        <item>Grandes coisas nunca vieram de zonas de conforto.</item>
+        <item>O sucesso é a soma de pequenos esforços repetidos dia após dia.</item>
+        <item>O único modo de fazer um grande trabalho é amar o que você faz.</item>
+        <item>A maior glória em viver não está em nunca cair, mas em levantar cada vez que caímos.</item>
+        <item>Se a vida fosse previsível, deixaria de ser vida e sem sabor.</item>
+        <item>A vida é muito importante para ser levada a sério.</item>
+        <item>Mantenha seus olhos nas estrelas e seus pés no chão.</item>
+        <item>A jornada de mil milhas começa com um único passo.</item>
+        <item>A vida é o que acontece quando você está ocupado fazendo outros planos.</item>
+        <item>Espalhe amor por onde você for.</item>
+        <item>Seja a mudança que você quer ver no mundo.</item>
+        <item>A única pessoa que você está destinado a se tornar é a pessoa que você decide ser.</item>
+        <item>A vida é 10% o que acontece comigo e 90% como eu reajo a isso.</item>
+        <item>Nada é impossível, a própria palavra diz \'Eu sou possível!\'</item>
+        <item>Mantenha o rosto voltado para o sol e você não verá as sombras.</item>
+        <item>O sucesso é a soma de pequenos esforços, repetidos dia sim, e dia também.</item>
+        <item>A melhor e mais bela coisa do mundo não pode ser vista ou tocada - deve ser sentida com o coração.</item>
+        <item>Acredite que você pode e você já está no meio do caminho.</item>
+        <item>A única coisa que devemos temer é o próprio medo.</item>
+        <item>A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar se movendo.</item>
+        <item>Você nunca é velho demais para definir outra meta ou sonhar um novo sonho.</item>
+        <item>O sucesso não consiste em nunca errar, mas em nunca cometer o mesmo erro duas vezes.</item>
+        <item>A imaginação é tudo. É a prévia das próximas atrações da vida.</item>
+        <item>A diferença entre ordinário e extraordinário é aquele pequeno extra.</item>
+        <item>O sucesso é um estado de espírito. Se você quer ter sucesso, comece pensando em si mesmo como um sucesso.</item>
+        <item>A ação é a chave fundamental para todo o sucesso.</item>
+        <item>O único limite para as nossas realizações de amanhã são as nossas dúvidas de hoje.</item>
+        <item>Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante.</item>
+        <item>A vida é muito curta para ser pequena.</item>
+        <item>A melhor vingança é o sucesso massivo.</item>
+        <item>A vida não é sobre esperar a tempestade passar, é sobre aprender a dançar na chuva.</item>
+        <item>A única coisa que fica entre você e seu sonho é a vontade de tentar e a crença de que é realmente possível.</item>
+        <item>O sucesso não tem nada a ver com quanto dinheiro você ganha, mas com a diferença que você faz na vida das pessoas.</item>
+        <item>A única maneira de fazer um ótimo trabalho é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se acomode.</item>
+        <item>A vida é muito curta para desperdiçá-la realizando os sonhos de outras pessoas.</item>
+        <item>O sucesso não é definitivo, o fracasso não é fatal: é a coragem de continuar que conta.</item>
+        <item>A melhor maneira de prever o futuro é criá-lo.</item>
+        <item>A vida não é sobre encontrar a si mesmo. A vida é sobre criar a si mesmo.</item>
+        <item>O sucesso é andar de fracasso em fracasso sem perder o entusiasmo.</item>
+    </string-array>
+
+    <!-- Autores -->
+    <string-array name="autores_motivacionais">
+        <item>Charles Chaplin</item>
+        <item>Theodore Roosevelt</item>
+        <item>José de Alencar</item>
+        <item>Henry Ford</item>
+        <item>Walt Disney</item>
+        <item>Helen Keller</item>
+        <item>Stephen Covey</item>
+        <item>Jim Rohn</item>
+        <item>Anderson Menger</item>
+        <item>Robert Collier</item>
+        <item>Steve Jobs</item>
+        <item>Nelson Mandela</item>
+        <item>Eleanor Roosevelt</item>
+        <item>Oscar Wilde</item>
+        <item>Theodore Roosevelt</item>
+        <item>Lao Tzu</item>
+        <item>John Lennon</item>
+        <item>Madre Teresa de Calcutá</item>
+        <item>Mahatma Gandhi</item>
+        <item>Ralph Waldo Emerson</item>
+        <item>Charles Swindoll</item>
+        <item>Audrey Hepburn</item>
+        <item>Helen Keller</item>
+        <item>Robert Collier</item>
+        <item>Helen Keller</item>
+        <item>Theodore Roosevelt</item>
+        <item>Franklin D. Roosevelt</item>
+        <item>Albert Einstein</item>
+        <item>C.S. Lewis</item>
+        <item>George Bernard Shaw</item>
+        <item>Albert Einstein</item>
+        <item>Jimmy Johnson</item>
+        <item>Joyce Brothers</item>
+        <item>Pablo Picasso</item>
+        <item>Franklin D. Roosevelt</item>
+        <item>Augusto Branco</item>
+        <item>Benjamin Disraeli</item>
+        <item>Frank Sinatra</item>
+        <item>Vivian Greene</item>
+        <item>Joel Brown</item>
+        <item>Michelle Obama</item>
+        <item>Steve Jobs</item>
+        <item>Hugh Hefner</item>
+        <item>Winston Churchill</item>
+        <item>Peter Drucker</item>
+        <item>George Bernard Shaw</item>
+        <item>Winston Churchill</item>
+    </string-array>
+</resources>
