@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace = "br.com.silvestresantiago732.motivacionaldia"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "br.com.silvestresantiago732.motivacionaldia"
-        minSdk = 24
-        targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        minSdk = 25
+        targetSdk = 35
+        versionCode = 3
+        versionName = "1.1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -39,7 +39,7 @@ android {
 }
 
 dependencies {
-
+    implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)

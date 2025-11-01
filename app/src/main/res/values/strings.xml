@@ -3,6 +3,9 @@
     <string name="motivacional_do_dia">Motivacional do dia</string>
     <string name="sortear_frase">Sortear frase</string>
     <string name="imagem_bem_vindo">Imagem bem-vindo</string>
+    <string name="tools_version_name">Version name</string>
+    <string name="versao_nao_disponivel">Versão não disponível</string>
+    <string name="version_name">Versão %1$s</string>
 
     <!-- Frases motivacionais -->
     <string-array name="frases_motivacionais">
